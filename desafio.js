@@ -21,7 +21,7 @@ function listaCompras(itens, item) {
     }
     return lista;
 }
-console.log(listaCompras('remover', 'melancia'))
+console.log(listaCompras('adicionar', 'melancia'))
 
 
 
