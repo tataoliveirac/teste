@@ -1,3 +1,3 @@
-function name(params) {
+function teste(n1, n2) {
     
 }
